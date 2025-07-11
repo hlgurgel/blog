@@ -89,6 +89,6 @@ Não foi preciso reinventar a roda. A solução veio da observação de um padr�
 
 Essa é a primeira de muitas publicações que pretendo escrever aqui. Se você curtiu, fique de olho que vem mais soluções do campo de batalha por aí. ;)
 
----
+
 
 [Voltar ao índice](/blog/)
