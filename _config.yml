@@ -5,5 +5,5 @@ theme: minima
 markdown: kramdown
 permalink: pretty
 
-plugins:
+gems:
   - jekyll-feed
