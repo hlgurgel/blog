@@ -91,4 +91,4 @@ Essa é a primeira de muitas publicações que pretendo escrever aqui. Se você 
 
 ---
 
-[Voltar ao índice](/)
+[Voltar ao índice](/blog/)
