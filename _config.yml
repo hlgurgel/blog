@@ -1,9 +1,10 @@
 title: Blog de Engenharia de Dados — Helder Jr.
 description: Publicações técnicas baseadas em experiências reais com dados, automações e SQL.
-theme: minima
+
+remote_theme: pages-themes/minimal@v0.3.0
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
 
 markdown: kramdown
 permalink: pretty
-
-gems:
-  - jekyll-feed
