@@ -9,8 +9,6 @@ author: Helder Jr.
 
 ---
 
-# Sincronização incremental de dados com múltiplas fontes no SQL Server
-
 Esse é o primeiro artigo que publico por aqui, e a ideia é justamente essa: transformar soluções reais do dia a dia em material público, tanto para documentar o processo quanto para ajudar quem estiver enfrentando desafios parecidos.
 
 Vamos ao caso.
