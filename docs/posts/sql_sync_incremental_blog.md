@@ -94,4 +94,4 @@ Essa é a primeira de muitas publicações que pretendo escrever aqui. Se você 
 
 ---
 
-[Voltar ao índice](./index.md)
+[Voltar ao índice](../index.md)

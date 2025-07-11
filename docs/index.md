@@ -4,7 +4,7 @@ Bem-vindo ao meu blog técnico! Aqui compartilho aprendizados reais do dia a dia
 
 ## Artigos publicados
 
-- [Sincronização incremental de dados com múltiplas fontes no SQL Server](./sql_sync_incremental_blog.md)
+- [Sincronização incremental de dados com múltiplas fontes no SQL Server](./posts/sql_sync_incremental_blog.md)
 
 ---
 
