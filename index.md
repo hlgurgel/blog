@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Blog de Engenharia de Dados — Helder Jr.
 ---
 
@@ -10,7 +10,7 @@ Bem-vindo ao meu blog técnico! Aqui compartilho aprendizados reais do dia a dia
 ## Artigos publicados
 
 {% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }})
+- [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
 
 ---
