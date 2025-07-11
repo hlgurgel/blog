@@ -9,7 +9,9 @@ Bem-vindo ao meu blog técnico! Aqui compartilho aprendizados reais do dia a dia
 
 ## Artigos publicados
 
-- [Sincronização incremental de dados com múltiplas fontes no SQL Server](./_posts/sql_sync_incremental_blog.md)
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
 
 ---
 
