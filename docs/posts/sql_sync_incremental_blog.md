@@ -1,4 +1,6 @@
-# "Sincronização incremental de dados com múltiplas fontes no SQL Server"
+---
+layout: post
+title: "Sincronização incremental de dados com múltiplas fontes no SQL Server"
 date: 2025-07-11
 author: Helder Jr.
 ---
