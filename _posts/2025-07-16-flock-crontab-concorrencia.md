@@ -92,4 +92,4 @@ Se você quiser mais controle ou usar alternativas ao cron, considere:
 
 Usar `flock` é uma das formas mais simples e seguras de evitar que seus scripts agendados via `crontab` rodem em paralelo. Com uma simples linha de cron e um lockfile temporário, você ganha robustez sem precisar mudar o seu fluxo de execução.
 
-> Quer ver mais dicas como essa? Acompanhe os posts em [hlgurgel/blog](https://github.com/hlgurgel/blog).
+> Quer ver mais dicas como essa? Acompanhe os posts em [hlgurgel/blog](/blog).
